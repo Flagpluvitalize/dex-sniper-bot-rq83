@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with exclusive Automation Script for dex sniper bot | front-running-detection + transaction-batching, the #1 dex sniper bot. Includes front-running-detection
 
 
 
